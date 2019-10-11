@@ -15,11 +15,9 @@ This is a tool to automate mobile performance testing via [WebPageTest](https://
 > I would recommend a single person to be the owner and editor of the file. Also remember to keep test settings consistent along time.
 
 ### #2 Create the dashboard (optional)
-> Once the data has populated the 'Tests' tab for a few days, you can make a copy of the Data Studio template [here](???????) and link it to your tracker.
+> Once the data has populated the 'Tests' tab for a few days, you can make a copy of the Data Studio template [here](https://datastudio.google.com/u/0/reporting/17eCmvvfV62TI9UhM9t-QmX5ASyE2COkm/page/VgD/preview) and link it to your tracker by creating a new data source and linking it to Google Sheets.
 <br /><br />
-> Instructions?????
-<br /><br />
-> Share the dashboard with the team!
+> Share the dashboard with the rest of the team!
 
 
 ## Credits 🙏
