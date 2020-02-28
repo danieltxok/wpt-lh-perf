@@ -19,7 +19,7 @@ This is a tool to automate mobile performance testing via <a href="https://www.w
 > Give it a few days and the 'Test' tab wil populate with results for each test.
 
 ### #2 Create the dashboard (optional)
-> Once the data has populated the 'Tests' tab for a few days, you can make a copy of <a href="https://datastudio.google.com/u/0/reporting/17eCmvvfV62TI9UhM9t-QmX5ASyE2COkm/page/VgD/preview" target="_blank">this Data Studio template</a> and link it to the 'Tests' tab of your tracker by creating a new data source and linking it to Google Sheets. See the video below.
+> Once the data has populated the 'Tests' tab for a few days, you can make a copy of <a href="https://datastudio.google.com/u/0/reporting/17eCmvvfV62TI9UhM9t-QmX5ASyE2COkm/page/VgD/preview" target="_blank">this Data Studio template</a> and link it to the 'Tests' tab of your tracker by clicking on 'Create a new data source' and linking it to Google Sheets. See the video below.
 <br /><br />
 >![How to link the tracker](linking_demo.gif)
 <br /><br />
