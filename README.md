@@ -1,9 +1,11 @@
 # WPT & LH Perf Tool Set-up 📱
 This is a tool to automate mobile performance testing via <a href="https://www.webpagetest.org/" target="_blank">WebPageTest</a> and <a href="https://developers.google.com/web/tools/lighthouse" target="_blank">Lighthouse</a>.
+<br/>
+⚠️ If you don't already have a WPT API Key, this won't work for you! ⚠️
 
 
 ## What do you need?
-* **WebPagetest API Key**. Later it is explained how to get one.
+* **WebPagetest API Key**. You need to have one already. WPT does not issue new API Keys.
 * **Google account** (e.g. @gmail.com) to fork the Google Sheets tracker and the Data Studio dashboard.
 
 
